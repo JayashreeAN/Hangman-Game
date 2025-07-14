@@ -29,10 +29,12 @@ Welcome to Hangman!
 
 Word: _ _ _ _ _
 Guess a letter: a
+
 ✅ Correct!
 
 Word: a _ _ _ e
 Guess a letter: x
+
 ❌ Wrong! Lives left: 5
 
 ...
